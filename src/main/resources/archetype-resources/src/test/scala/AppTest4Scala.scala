@@ -1,6 +1,6 @@
 package ${package}
 
-import org.junit.Assert.assertTrue
+import org.junit.Assert.assertTrue2
 import org.junit.Test
 
 @Test
